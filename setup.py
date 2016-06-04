@@ -32,7 +32,7 @@ setup(
     version = "0.2",
     license = "GPL v3",
     description = "Video Player for Pisi Linux",
-    author = "Metehan Özbek",
+    author = "Metehan Ozbek",
     author_email = "mthnzbk@gmail.com",
     url = "https://github.com/mthnzbk/pisi-player",
     keywords = ["PyQt5"],
